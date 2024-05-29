@@ -1,10 +1,6 @@
 <h1 align="center">Assalamualaikum, I'm Tareq Munawer Taj</h1>
 <h3 align="center">I am an undergraduate student in Computer Science & Engineering at the University of Rajshahi. I have a passion for solving problems and continuously learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munawertaj&label=Profile%20views&color=0e75b6&style=flat" alt="munawertaj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munawertaj" alt="munawertaj" /></a> </p>
-
 - 🔭 I’m currently working on **Frequency Recognition of SSVEP based BCI using Deep Learning**
 
 - 🌱 I’m currently learning **Deep Learning, PHP & Laravel**
