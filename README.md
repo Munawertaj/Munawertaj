@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, PHP & Laravel**
 
-- 📫 How to reach me **taj4580@gmail.com**
+- 📫 How to reach me **[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tareqmunawertaj@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
