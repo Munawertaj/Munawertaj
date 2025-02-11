@@ -1,9 +1,11 @@
-<h1 align="center">Assalamualaikum, I'm Tareq Munawer Taj</h1>
-<h3 align="center">I am an undergraduate student in Computer Science & Engineering at the University of Rajshahi. I have a passion for solving problems and continuously learning new technologies.</h3>
+<h1 align="center"> Assalamualaikum, I'm Tareq Munawer Taj </h1>
+<h3 align="center"> I have completed my B.Sc in Computer Science & Engineering from the University of Rajshahi. I am passionate about problem-solving, learning new technologies. </h3>
 
-- 🔭 I’m currently working on **Frequency Recognition of SSVEP based BCI using Deep Learning**
+- 🌱 Currently learning **Java Spring Boot**
 
-- 🌱 I’m currently learning **Deep Learning, PHP & Laravel**
+- 🔭 Worked on **Frequency Recognition of SSVEP using Deep Learning with Data Augmentation for BCI Implementation**
+
+- - 💡 Always curious and eager to learn 
 
 - 📫 How to reach me **[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tareqmunawertaj@gmail.com)**
 
